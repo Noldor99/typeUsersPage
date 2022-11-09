@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typeUsersPage/static/css/main.41786c6b.css",
+    "main.js": "/typeUsersPage/static/js/main.396fb74f.js",
+    "index.html": "/typeUsersPage/index.html",
+    "main.41786c6b.css.map": "/typeUsersPage/static/css/main.41786c6b.css.map",
+    "main.396fb74f.js.map": "/typeUsersPage/static/js/main.396fb74f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.396fb74f.js"
+  ]
+}
